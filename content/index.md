@@ -4,24 +4,10 @@ title: "Min fina titel"
 Min me-sida i kursen oophp
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
 
-[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig, ätandes glass och hållandes ett kort på någon jultillställning."]
+Hej jag heter Henning Petersson jag är 22 år och jag studerar på BTH (Blekinges Tekniska Högskola). Jag kommer ursprungligen från Växjö där bodde jag med min familj som består av mamma, pappa, stora syster, lilla syster och tre hundar. Nu bor jag i Karlskrona för att det ska vara smidigt att ta sig till skolan. Under tiden som jag bodde i Växjö har jag testat på det mesta inom sport t.ex. tennis, pingis, Yu YuTzu och innebandy men inget som jag riktigt fastnade för.
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+På gymnasiet läste jag teknik och fick lära mig lite om php, html samt C#. Efter gymnasiet tog jag ett 3 års uppehåll från studier och jobbade som lokalvårdare på sjukhuset i Växjö. Det som jag tycker är roligt att göra på fritiden är att hänga med mina kompisar eller sitta vid datorn och spela olika typer av spel.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
-
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
-
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching, sedan turfing och nu på sistone verkar släktforskning lite spännande. Annars kan jag alltid koda på något av mina opensource-projekt, det finns och blir över.
-
-Vill du läsa mer om vad jag jobbat med så kan du kika på min [Linkedin-profil](https://www.linkedin.com/in/pt90mr/).
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Det finns dessutom ett intresse i matlagning där jag brukar leta fram olika typer av recept och utmana mig själv. Eftersom jag inte är något speciellt bra på att laga mat går det inte riktigt som jag tänkt mig varje gång men det är alltid lika roligt ifall maten blir lyckad. Om jag ska beskriva mig själv så skulle jag säga att jag är en väldigt lugn person och blir sällan stressad.
